@@ -1,6 +1,6 @@
 {
   "homepage": "https://jarrodgit.github.io/engr_folio",
-  "name": "developerfolio",
+  "name": "engr_folio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
